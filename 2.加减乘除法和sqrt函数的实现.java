@@ -1,16 +1,15 @@
-## 重要性：★★★★★ 
-## 难易程度：★★★
+ 重要性：★★★★★ 
+ 难易程度：★★★
 
 
-#### 阿里蚂蚁金服的面试中出现：要求手写实现“乘除法”
+     阿里蚂蚁金服的面试中出现：要求手写实现“乘除法”
 
-#### 度小满金融的面试中出现过：自己实现Math.sqrt函数
+     度小满金融的面试中出现过：自己实现Math.sqrt函数
 
-#### 快手的面试中曾出现：使用位运算实现整数加法运算
+     快手的面试中曾出现：使用位运算实现整数加法运算
 
 
 
-```java
 BinaryOperation {
     public static void main(String[] args) throws Exception {
         System.out.println(binaryAdd(-6, -15));
@@ -121,4 +120,3 @@ private static double mySqrt(int num) {
         return Math.round(x0*1000)/1000.0;//保留三位小数
     }
 }
-```
