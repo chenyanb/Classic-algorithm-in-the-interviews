@@ -3,6 +3,8 @@
 
  树结构是面试中的考察的重点，而树的遍历又是树结构的基础。
  
+ 一个专注应届生互联网求职分享的公众号“菜鸟名企梦”
+
 //先序遍历，递归版本
 public static ArrayList<Integer> preOrder(TreeNode root) {
         ArrayList<Integer> res = new ArrayList<Integer>();
