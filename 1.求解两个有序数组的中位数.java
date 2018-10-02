@@ -3,6 +3,7 @@
 
 在猿辅导的面试中曾出现过
 
+一个专注应届生互联网求职分享的公众号“菜鸟名企梦”
 class Solution {
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
         int len1 = nums1.length;
